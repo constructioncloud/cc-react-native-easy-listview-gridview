@@ -8,12 +8,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danke77/react-native-easy-listview-gridview.git"
+    "url": "git+https://github.com/constructioncloud/cc-react-native-easy-listview-gridview.git"
   },
   "bugs": {
-    "url": "https://github.com/danke77/react-native-easy-listview-gridview/issues"
+    "url": "https://github.com/constructioncloud/cc-react-native-easy-listview-gridview/issues"
   },
-  "homepage": "https://github.com/danke77/react-native-easy-listview-gridview#readme",
+  "homepage": "https://github.com/constructioncloud/cc-react-native-easy-listview-gridview#readme",
   "keywords": [
     "react-native-component",
     "react-component",
