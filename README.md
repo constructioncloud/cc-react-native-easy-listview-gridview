@@ -1,10 +1,8 @@
-# react-native-easy-listview-gridview
+# cc-react-native-easy-listview-gridview
 
-[![npm version](https://img.shields.io/npm/v/react-native-easy-listview-gridview.svg)](https://www.npmjs.com/package/react-native-easy-listview-gridview)
-[![npm downloads](https://img.shields.io/npm/dm/react-native-easy-listview-gridview.svg)](https://www.npmjs.com/package/react-native-easy-listview-gridview)
-[![npm downloads](https://img.shields.io/npm/dt/react-native-easy-listview-gridview.svg)](https://www.npmjs.com/package/react-native-easy-listview-gridview)
+Construction Cloud customized wrapper library for **ListView & GridView** in React Native. Forked from https://github.com/danke77/react-native-easy-listview-gridview
 
-This is a wrapper library for **ListView & GridView** in React Native.
+Due note this package has been customized and hacked to fit our custom needs.
 
 ### Sample
 
