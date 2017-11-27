@@ -1,7 +1,7 @@
 {
   "name": "construction-cloud-react-native-easy-listview-gridview",
   "description": "A wrapper library for ListView and GridView in React Native",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "lib/EasyListView.js",
   "files": [
     "lib"
@@ -30,7 +30,7 @@
   "author": "construction-cloud",
   "license": "MIT",
   "dependencies": {
+    "prop-types": "^15.6.0"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
